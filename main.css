@@ -3,18 +3,27 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-header {
+.header {
     background-image: url("images/header-image.jpg");
     background-size: cover;
     background-position: center center;
+    color: blue;
     height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-name {
+    font-size: 5rem;
+    padding: 5px;
+}
+
+.header-job-title {
+    font-size: 2.5rem;
 }
 
 main {
     color: #FFFFFF;
-}
-
-.header-name {
-    color: blue;
-    font-size: 5rem;
 }
