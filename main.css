@@ -1,8 +1,10 @@
 body {
-    background-color: #dd3322;
-    margin: 50px 200px;
+    background-color: #000;
 }
 
 header {
-    background-image: url("images/header-background.jpg");
+    background-image: url("images/header-image.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
 }
