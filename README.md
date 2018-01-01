@@ -1,4 +1,4 @@
-# 2018_Portfolio
+# 2018 Portfolio
 Redesigning my portfolio for 2018 🎉🥂🎉
 
 ## Objectives
