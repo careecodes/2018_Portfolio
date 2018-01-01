@@ -7,7 +7,7 @@ body {
     background-image: url("images/header-image.jpg");
     background-size: cover;
     background-position: center center;
-    color: blue;
+    color: #ff4400;
     height: 100vh;
     text-align: center;
     display: flex;
