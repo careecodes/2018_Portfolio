@@ -1,5 +1,6 @@
 body {
     background-color: #000000;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -11,4 +12,9 @@ header {
 
 main {
     color: #FFFFFF;
+}
+
+.header-name {
+    color: blue;
+    font-size: 5rem;
 }
