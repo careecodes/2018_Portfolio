@@ -2,3 +2,7 @@ body {
     background-color: #dd3322;
     margin: 50px 200px;
 }
+
+header {
+    background-image: url("images/header-background.jpg");
+}
