@@ -13,7 +13,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    animation: header-blur-animation 1s linear;
+    animation: header-blur-animation .5s linear;
 }
 
 @keyframes header-blur-animation {
