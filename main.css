@@ -5,9 +5,10 @@ body {
 
 .header {
     background-image: url("images/header-image.jpg");
+    filter: blur(5px);
     background-size: cover;
     background-position: center center;
-    color: #ff4400;
+    color: #222222;
     height: 100vh;
     text-align: center;
     display: flex;
